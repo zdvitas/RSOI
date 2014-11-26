@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bb57cba-835f-44f1-8a99-13c6de0e1341" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab1/urls.py" afterPath="$PROJECT_DIR$/Lab1/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RSOI/urls.py" afterPath="$PROJECT_DIR$/RSOI/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab1/views.py" afterPath="$PROJECT_DIR$/Lab1/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RSOI.iws" />
@@ -76,6 +74,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
     <option name="myDateState">
@@ -387,12 +388,18 @@
       <created>1413023361707</created>
       <updated>1413023361707</updated>
     </task>
+    <task id="LOCAL-00001" summary="1 lab">
+      <created>1417027617843</created>
+      <updated>1417027617843</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -428,6 +435,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="1 lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 lab" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
